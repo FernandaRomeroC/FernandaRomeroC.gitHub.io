@@ -1,0 +1,79 @@
+.fondo-body{
+    background-image: url(../img/fondo.jpg);
+}
+.fondo-container{
+    background-color: #ffffff;
+    border-radius: 20px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 3%;
+    border-color: blueviolet;
+    border-style: solid;
+}
+
+.logo{
+    width: 400px; 
+    height: 150px;
+    float: left;
+    margin-right: 2%;
+    margin-top: 4px;
+    border-radius: 10%;
+}
+
+
+h1{
+    letter-spacing: 1px;
+    color: rgb(2, 2, 2);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2{
+    letter-spacing: 1px;
+    color: rgb(2, 2, 2);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.font{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    color: rgb(41, 40, 40);
+}
+
+.fotos-url{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-right: 2%;
+    margin-left: 20%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+a:link, a:visited, a:active{
+    text-decoration:none;
+}
+
+.list{
+    list-style: none;
+}
+
+
+.enlace{
+    background-color: rgb(148, 216, 216);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 40%;
+    float: right;
+}
+
+.nav{
+    margin-bottom: 5%;
+}
