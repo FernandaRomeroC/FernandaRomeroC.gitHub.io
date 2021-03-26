@@ -141,6 +141,33 @@ ul{
     padding: 3%;
 }
 
+<<<<<<< HEAD
 .tabla tbody tr td{
     padding-left: 4%;
 }
+=======
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+    margin-right:8%;
+    margin-top: 10%;
+    
+
+}
+
+h3{
+    letter-spacing: 1px;
+    color: rgb(240, 196, 240);
+    font-family:cursive;
+    font-size: 28px;
+    float:right;
+    margin-left:15%;
+    margin-top: 5%;
+    
+}
+
+    
+
+  
+>>>>>>> b31c804aadf91d977a5710c4eed4d9768623e2de
